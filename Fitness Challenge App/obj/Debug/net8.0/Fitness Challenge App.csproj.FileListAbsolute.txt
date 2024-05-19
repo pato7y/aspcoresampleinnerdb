@@ -1,0 +1,36 @@
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Fitness Challenge App.staticwebassets.runtime.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Fitness Challenge App.exe
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Fitness Challenge App.deps.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Fitness Challenge App.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Fitness Challenge App.dll
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Fitness Challenge App.pdb
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.sourcelink.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\staticwebassets\msbuild.Fitness Challenge App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\staticwebassets\msbuild.build.Fitness Challenge App.props
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Fitness Challenge App.props
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Fitness Challenge App.props
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\scopedcss\bundle\Fitness Challenge App.styles.css
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\scopedcss\projectbundle\Fitness Challenge App.bundle.scp.css
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.dll
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\refint\Fitness Challenge App.dll
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.pdb
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\ref\Fitness Challenge App.dll
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness Challenge App.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\web382\Fitness Challenge App\obj\Debug\net8.0\Fitness .91B18519.Up2Date
